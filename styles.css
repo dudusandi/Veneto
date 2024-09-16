@@ -6,9 +6,8 @@
 
 .body{
 	background-image: url('Assets/fundo.jpg');
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    background-size: contain;
+
 }
 
 .logo {
