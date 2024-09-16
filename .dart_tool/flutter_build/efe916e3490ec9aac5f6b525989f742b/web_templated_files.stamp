@@ -1,0 +1,1 @@
+{"inputs":["D:\\Projetos\\Veneto\\web\\*\\index.html","D:\\Projetos\\Veneto\\web\\flutter_bootstrap.js","C:\\Dev\\flutter\\bin\\internal\\engine.version"],"outputs":["D:\\Projetos\\Veneto\\build\\web\\*\\index.html","D:\\Projetos\\Veneto\\build\\web\\flutter_bootstrap.js"],"buildKey":"[{\"compileTarget\":\"dart2js\",\"renderer\":\"canvaskit\",\"mainJsPath\":\"main.dart.js\"}]"}
